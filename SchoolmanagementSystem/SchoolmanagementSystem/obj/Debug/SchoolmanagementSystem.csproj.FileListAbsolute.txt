@@ -1,0 +1,13 @@
+c:\users\basit\onedrive\documents\visual studio 2015\Projects\SchoolmanagementSystem\SchoolmanagementSystem\bin\Debug\SchoolmanagementSystem.exe.config
+c:\users\basit\onedrive\documents\visual studio 2015\Projects\SchoolmanagementSystem\SchoolmanagementSystem\bin\Debug\SchoolmanagementSystem.exe
+c:\users\basit\onedrive\documents\visual studio 2015\Projects\SchoolmanagementSystem\SchoolmanagementSystem\bin\Debug\SchoolmanagementSystem.pdb
+c:\users\basit\onedrive\documents\visual studio 2015\Projects\SchoolmanagementSystem\SchoolmanagementSystem\obj\Debug\SchoolmanagementSystem.csprojResolveAssemblyReference.cache
+c:\users\basit\onedrive\documents\visual studio 2015\Projects\SchoolmanagementSystem\SchoolmanagementSystem\obj\Debug\SchoolmanagementSystem.Form1.resources
+c:\users\basit\onedrive\documents\visual studio 2015\Projects\SchoolmanagementSystem\SchoolmanagementSystem\obj\Debug\SchoolmanagementSystem.Properties.Resources.resources
+c:\users\basit\onedrive\documents\visual studio 2015\Projects\SchoolmanagementSystem\SchoolmanagementSystem\obj\Debug\SchoolmanagementSystem.csproj.GenerateResource.Cache
+c:\users\basit\onedrive\documents\visual studio 2015\Projects\SchoolmanagementSystem\SchoolmanagementSystem\obj\Debug\SchoolmanagementSystem.exe
+c:\users\basit\onedrive\documents\visual studio 2015\Projects\SchoolmanagementSystem\SchoolmanagementSystem\obj\Debug\SchoolmanagementSystem.pdb
+c:\users\basit\onedrive\documents\visual studio 2015\Projects\SchoolmanagementSystem\SchoolmanagementSystem\obj\Debug\SchoolmanagementSystem.Form2.resources
+C:\Users\basit\onedrive\documents\visual studio 2015\Projects\SchoolmanagementSystem\SchoolmanagementSystem\obj\Debug\SchoolmanagementSystem.Insertform.resources
+C:\Users\basit\OneDrive\Documents\Visual Studio 2015\Projects\SchoolmanagementSystem\SchoolmanagementSystem\obj\Debug\SchoolmanagementSystem.Search.resources
+C:\Users\basit\OneDrive\Documents\Visual Studio 2015\Projects\SchoolmanagementSystem\SchoolmanagementSystem\obj\Debug\SchoolmanagementSystem.UpdateForm.resources
